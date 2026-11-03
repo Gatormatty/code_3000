@@ -16,3 +16,9 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+
+## Personal Ethics Statement
+AI in ethics is an ever-evolving topic in contemporary society, so after learning about Ethical statements about AI from "Ethical Machines" by Reid Blackman. Specifically, in chapter five, a great point made is that when companies claim to value transparency and privacy, it usually is not enough. They actually have to take into account these decisions and values when their products are being created, not at the end.
+
+So as a computer science student from UConn, I and many other developers must take into consideration the ethics of my work during the creative process. It should not be something that is dealt with after a problem is brought up. If I am going to use AI, I need to make sure it respects user privacy and avoids bias. I need to make sure I understand where the answers are coming from and I can explain them if clarification is needed. In this age of AI, developers need to find ways to recognize mistakes and improve the way this technology can be used and sustained when ethical issues come up, ie enegery usage, water, data centers and privacy, etc. Transparent and trustworthy technology carries the same weight as well-functioning technology.
